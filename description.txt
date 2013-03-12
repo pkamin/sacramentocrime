@@ -1,0 +1,4 @@
+SacramentocrimeJanuary2006.csv - baza danych zawieraj¹ca przestepstwa pope³nione w styczniu w miescie Sacramento z opisem zdarzenia i dokladnym miejscem zdarzeania.
+task.rb - skrypt generujacy json i ladujacy je do bazy danyh mongodb couchdb i elasticsearch
+move.rb - skypt przenoszacy dane do postgresql
+mapreduce.rb - skypt zawierajacy funkcje map i reduce dla danych 
